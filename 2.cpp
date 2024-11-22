@@ -19,6 +19,5 @@ int main() {
     // Output the results
     cout << "Circumference of the circle: " << circumference << endl;
     cout << "Area of the circle: " << area << endl;
-
     return 0;
 }
